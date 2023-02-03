@@ -1,1 +1,2 @@
-"# animation-hero" 
+"# animation-hero"
+Ejemplo de animaciones
